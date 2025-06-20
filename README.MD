@@ -10,6 +10,3 @@ This is a simple demo project that showcases how to use **Spring JDBC** with **J
 - PostgreSQL / h2
 - Maven
 - IntelliJ IDEA
-
-## 📂 Project Structure
-
